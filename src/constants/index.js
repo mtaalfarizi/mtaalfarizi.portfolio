@@ -69,7 +69,7 @@ const experiences = [
     company_name: "Universitas Indonesia",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Aug, 2022 – Present",
     points: [
       "Oversaw all aspects of the Tracer Study project, including planning, execution, and evaluation, impacting over 5,000 graduates annually.",
       "Developed survey instruments and methodologies, resulting in a 30% increase in response rates from alumni through online surveys, interviews, and other relevant methods.",
